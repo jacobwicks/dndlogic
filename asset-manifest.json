@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dndlogic/static/css/main.83bd8ac9.chunk.css",
+    "main.js": "/dndlogic/static/js/main.5b255c06.chunk.js",
+    "main.js.map": "/dndlogic/static/js/main.5b255c06.chunk.js.map",
+    "runtime-main.js": "/dndlogic/static/js/runtime-main.ad7ad7fd.js",
+    "runtime-main.js.map": "/dndlogic/static/js/runtime-main.ad7ad7fd.js.map",
+    "static/js/2.315f5c3b.chunk.js": "/dndlogic/static/js/2.315f5c3b.chunk.js",
+    "static/js/2.315f5c3b.chunk.js.map": "/dndlogic/static/js/2.315f5c3b.chunk.js.map",
+    "index.html": "/dndlogic/index.html",
+    "precache-manifest.235d75510c9dd2e197b74f7364c411dd.js": "/dndlogic/precache-manifest.235d75510c9dd2e197b74f7364c411dd.js",
+    "service-worker.js": "/dndlogic/service-worker.js",
+    "static/css/main.83bd8ac9.chunk.css.map": "/dndlogic/static/css/main.83bd8ac9.chunk.css.map",
+    "static/js/2.315f5c3b.chunk.js.LICENSE": "/dndlogic/static/js/2.315f5c3b.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad7ad7fd.js",
+    "static/js/2.315f5c3b.chunk.js",
+    "static/css/main.83bd8ac9.chunk.css",
+    "static/js/main.5b255c06.chunk.js"
+  ]
+}
